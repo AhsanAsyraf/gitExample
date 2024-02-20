@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,asyraf,Asyraf,Ahsan
 employee,jwvanzeeland,Van Zeeland, Jack
